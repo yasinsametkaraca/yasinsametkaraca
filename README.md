@@ -33,6 +33,6 @@
 ---
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yasinsametkaraca&show_icons=true&locale=en&layout=compact" alt="yasinsametkaraca" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yasinsametkaraca&show_icons=true&locale=en" alt="yasinsametkaraca" width="50%" /></p><br />
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yasinsametkaraca&show_icons=true&locale=en" alt="yasinsametkaraca" width="50%" /></p>
 
 	
