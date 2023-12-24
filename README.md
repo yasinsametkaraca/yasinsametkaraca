@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yasinsametkaraca" alt="yasinsametkaraca" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/yasinsamet_ysk" target="blank"><img src="https://img.shields.io/twitter/follow/yasinsamet_ysk?logo=twitter&style=for-the-badge" alt="yasinsamet_ysk" /></a> </p>
+<p align="left"> <a href="https://twitter.com/yasinsamet_ysk" target="_blank"><img src="https://img.shields.io/twitter/follow/yasinsamet_ysk?logo=twitter&style=for-the-badge" alt="yasinsamet_ysk" /></a> </p>
 
 - 🌱 I’m currently learning **sweltekit**
 
@@ -13,14 +13,14 @@
 
 - 📫 How to reach me **yasinsametkaraca.ysk@gmail.com**
 
-- 📄 Know about my experiences <a href="https://yasinsametkaraca.com" target="blank">yasinsametkaraca.com</a>
+- 📄 Know about my experiences <a href="https://yasinsametkaraca.com" target="_blank">yasinsametkaraca.com</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/yasinsamet_ysk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yasinsamet_ysk" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/yasinsametkaraca" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yasinsametkaraca" height="30" width="40" /></a>
-<a href="https://kaggle.com/yasinsametkaraca" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="yasinsametkaraca" height="30" width="40" /></a>
-<a href="https://instagram.com/yasinsametkaraca" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yasinsametkaraca" height="30" width="40" /></a>
+<a href="https://twitter.com/yasinsamet_ysk" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yasinsamet_ysk" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/yasinsametkaraca" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yasinsametkaraca" height="30" width="40" /></a>
+<a href="https://kaggle.com/yasinsametkaraca" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="yasinsametkaraca" height="30" width="40" /></a>
+<a href="https://instagram.com/yasinsametkaraca" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yasinsametkaraca" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
