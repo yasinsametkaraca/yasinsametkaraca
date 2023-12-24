@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **yasinsametkaraca.ysk@gmail.com**
 
-- 📄 Know about my experiences [yasinsametkaraca.com](yasinsametkaraca.com)
+- 📄 Know about my experiences <a href="https://yasinsametkaraca.com" target="blank">yasinsametkaraca.com</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
