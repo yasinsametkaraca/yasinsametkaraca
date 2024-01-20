@@ -7,8 +7,6 @@
 
 <p align="left"> <a href="https://twitter.com/yasinsamet_ysk" target="_blank"><img src="https://img.shields.io/twitter/follow/yasinsamet_ysk?logo=twitter&style=for-the-badge" alt="yasinsamet_ysk" /></a> </p>
 
-- 🌱 I’m currently learning **sweltekit**
-
 - 💬 Ask me about **python, javascript, react, next.js, django, django rest framework and docker**
 
 - 📫 How to reach me **yasinsametkaraca.ysk@gmail.com**
